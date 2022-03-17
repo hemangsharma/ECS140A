@@ -20,3 +20,6 @@ Teaching Assistants: Stephanie Nawas (snawas@ucdavis.edu), Zhe Tao (zhetao@ucdav
   <li>https://go.dev/doc/effective_go.html</li>
   <li>https://gobyexample.com/</li>
 </ol>
+
+<h2><li>Grades</li></h2>
+<img src="grades.png"></img>
